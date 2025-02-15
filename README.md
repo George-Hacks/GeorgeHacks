@@ -11,5 +11,4 @@ The hackathon encourages collaboration across fields like engineering, public he
 So this timwe we are going nationwide hackathon colabrated witht the MLH and Devpost -> 
 
 
-![GH Logo-GH Blue (1) (1)](https://github.com/user-attachments/assets/b902729b-0388-40e2-b9f2-621b0727c45c)
-![george-hacks](https://github.com/user-attachments/assets/22e8c2bf-6fd8-47b4-80ee-966c1e1eb75f)
+![image](https://github.com/user-attachments/assets/9d158677-c47d-49b2-9ad4-78f9f077daa5)
