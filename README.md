@@ -10,6 +10,6 @@ The hackathon encourages collaboration across fields like engineering, public he
 
 So this timwe we are going nationwide hackathon colabrated witht the MLH and Devpost -> 
 
+![image](https://github.com/user-attachments/assets/6c0835c4-4128-444c-a55a-ccb56567e8fa)
 
-![Uploading image.png…]()
 
