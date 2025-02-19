@@ -10,5 +10,4 @@ The hackathon encourages collaboration across fields like engineering, public he
 
 
 
-So this timwe we are going nationwide hackathon colabrated witht the MLH and Devpost -> 
 
