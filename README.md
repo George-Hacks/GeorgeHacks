@@ -1,5 +1,7 @@
 # GeorgeHacks Hackathon
 
+hosted can checkout at  www.georgehacks.org
+
 Anything Change here-->
 Prepare yourself this gonna be fun
 
