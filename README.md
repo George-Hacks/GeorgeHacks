@@ -14,3 +14,10 @@ The hackathon encourages collaboration across fields like engineering, public he
 
 
 ![WhatsApp Image 2024-09-09 at 19 11 02](https://github.com/user-attachments/assets/d0005c82-afa4-4b1c-bd8c-60566ba3b7b5)
+
+
+**Get in Touch:**
+- Website: [www.sameer-shaik.com](http://www.sameer-shaik.com)
+- Gmail: sameer.shaik@gwu.edu
+
+If you have any questions or need clarification, feel free to reach out. Thank you!
