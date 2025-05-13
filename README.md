@@ -1,5 +1,7 @@
 # GeorgeHacks Hackathon
 
+hello All I am sameer Shaik, -Technical Director and created this website for George Hacks->
+
 hosted can checkout at  www.georgehacks.org
 
 Anything Change here-->
